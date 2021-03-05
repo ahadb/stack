@@ -1,6 +1,6 @@
 # Stack
 
-Implementation of a stack (...based on arrays and has an ordered strcuture) in JavaScript.
+Implementation of a stack (...based on arrays and has an ordered strcuture) in TypeScript.
 
 ## Install
 
