@@ -55,4 +55,13 @@ export default class Stack {
   toString(): string {
     return this.stack.toString();
   };
+
+  /**
+   * @public method
+   * @description converts stack to Array
+   * @return {elements[]}
+   */
+  toArray(): Array<any> {
+    return this.stack;
+  };
 }
