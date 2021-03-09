@@ -69,4 +69,8 @@ Converts stack to string
 Note: you can create your data structures without using arrays as well, or even use my [linked-list](https://github.com/ahadb/linked-list)
 as a base.
 
+## Todo
+
+- [ ] add isEmpty method
+
 
